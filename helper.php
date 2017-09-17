@@ -6,7 +6,7 @@
 	
 	$pass =  password_hash($pass, PASSWORD_DEFAULT);
 	var_dump($pass);
-
+    echo '<br>';
 	exit;
 	exit;
 
