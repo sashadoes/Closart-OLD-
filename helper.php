@@ -8,6 +8,7 @@
 	var_dump($pass);
 
 	exit;
+	exit;
 
 	$value = '<li class="exclusive"><a class="trigger" href="/shop/exclusive">EXCLUSIVE</a></li>
 		  
